@@ -10,10 +10,10 @@ public class palandromicPattern{
    System.out.print(" ");
    }
    for(b = a;b>0;b--){
-   System.out.print(b)
+   System.out.print(b);
    }
    for(b=2;b<=a;b++){
-   System.out.print("b")
+   System.out.print("b");
     }
    }
    System.out.println();
